@@ -1,4 +1,4 @@
-# Демо-игра "Fall the Ball"
+# Демо-игра "Шарики"
 
 <img src="./readme/logo.png" alt="Logo" width="100">
 
